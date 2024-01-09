@@ -42,6 +42,7 @@ assignmentRouter.post("/", (req, res) => {
 
   return res.json({
     message: "New assignment has been created successfully",
+    // data: assignments,
   });
 });
 
