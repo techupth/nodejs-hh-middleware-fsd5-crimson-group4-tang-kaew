@@ -1,0 +1,1 @@
+Tue Jan 09 2024 13:25:41 GMT+0700 (GMT+07:00) IP: ::1, Method: GET, Endpoint: /assignments/
